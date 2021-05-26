@@ -5,7 +5,11 @@ molecool
 [![codecov](https://codecov.io/gh/REPLACE_WITH_OWNER_ACCOUNT/molecool/branch/master/graph/badge.svg)](https://codecov.io/gh/REPLACE_WITH_OWNER_ACCOUNT/molecool/branch/master)
 
 
-Visualization
+A Python package for visulization for analyzing and visualizing xyz files. FOr Molssi workshop. This package has a functional module.
+
+This repository is under development. To do a develope install, download this repository and type
+
+`pip install -e`
 
 ### Copyright
 
